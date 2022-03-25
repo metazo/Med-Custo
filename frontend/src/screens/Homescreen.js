@@ -1,6 +1,6 @@
 import React from 'react'
 import Pizza from '../components/Pizza'
-import pizzas from '../pizza'
+import pizzas from '../pizzadata'
 export default function Homescreen() {
     return (
         <div>
